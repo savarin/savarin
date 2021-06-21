@@ -1,3 +1,8 @@
+"The hard parts are not the learning, it is the unlearning. It’s not the climbing up the mountain. It’s the going back down to the bottom of the mountain and starting over.
+
+It’s the beginner’s mind that every great artist, or every great business person has, which is: you have to be willing to start from scratch. You have to be willing to hit reset and go back to zero. Because you have to realize that what you already know, and what you’re already doing, is actually an impediment to your full potential."
+-- Naval Ravikant
+
 ✨ https://payments.posthaven.com ✨
 
 <!--
