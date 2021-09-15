@@ -3,7 +3,7 @@
 It’s the beginner’s mind that every great artist, or every great business person has, which is: you have to be willing to start from scratch. You have to be willing to hit reset and go back to zero. Because you have to realize that what you already know, and what you’re already doing, is actually an impediment to your full potential."
 -- Naval Ravikant
 
-✨ https://ezzeriesa.notion.site/ezzeriesa/9b392f33cd0a4ef9814d35cbbea10d1b ✨
+✨ [https://ezzeriesa.notion.site](https://ezzeriesa.notion.site/ezzeriesa/9b392f33cd0a4ef9814d35cbbea10d1b) ✨
 
 <!--
 **savarin/savarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
